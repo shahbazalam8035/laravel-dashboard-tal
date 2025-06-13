@@ -1,0 +1,17 @@
+h1{
+	color: black;
+}
+
+#wrapper {
+    display: flex;
+}
+
+#sidebar-wrapper {
+    width: 250px;
+    min-height: 100vh;
+}
+
+#page-content-wrapper {
+    flex-grow: 1;
+    padding: 20px;
+}
